@@ -3,7 +3,7 @@
 Making a Request
 ----------------
 
-All requests start with http://127.0.0.1:8000/api *note-> in testing environment
+All requests start with http://127.0.0.1:8000/api
 
 ## Available requests
 
